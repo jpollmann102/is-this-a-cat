@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Josh\\Desktop\\Programming\\ML\\is-this-a-cat\\models\\is-this-a-cat.tflearn"
+all_model_checkpoint_paths: "C:\\Users\\Josh\\Desktop\\Programming\\ML\\is-this-a-cat\\models\\is-this-a-cat.tflearn"
